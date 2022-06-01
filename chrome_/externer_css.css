@@ -1,0 +1,60 @@
+h2{
+    color:green;
+}
+
+#q898{
+    margin:0px; padding: 0%; border: 0px;
+}
+
+body{
+    margin:0px; padding: 0%; border: 0px;
+    width: 540px;
+}
+
+#buton{
+    text-align:center;
+    line-height: 30px;
+    width: 90px;
+    height: 30px;
+    background-color: rgb(179, 255, 198);
+}
+#buton:hover{
+    background-color: darkcyan;
+}
+#buton:hover h2,h3,h4{
+    background-color: darkcyan;
+    color: yellow;
+    cursor:pointer;
+}
+#buton:active h2,h3,h4{
+    background-color: darkcyan;
+    color: rgb(0, 255, 149);
+    cursor:pointer;
+}
+
+.ff{
+    width: 50px;
+    height: 30px;
+}
+
+.qw21{
+    margin:0px; padding: 0%; border: 0px;
+}
+
+.onoff h2,h3,h4{
+  color: white;
+}
+#qopoe{
+  width: 420px;
+  height: 30px;line-height: 30px;
+  margin:0px; padding: 0%; border: 0px;
+}
+
+#site{
+  
+  width: 30px;
+  height: 30px;
+}
+
+
+
